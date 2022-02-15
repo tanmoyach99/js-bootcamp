@@ -50,24 +50,3 @@ const fullNum = 100;
 const remainder = 100 % 3; //1
 
 console.log(remainder);
-
-const detailsOfKarim = "Karim is  a bad boy";
-console.log("details of karim", detailsOfKarim, typeof detailsOfKarim);
-
-const details2 = ' Karim is a  "bad " Boy';
-console.log(details2);
-
-const num4 = 43; //it is a number primitive data type beacause its not under single or double quotation
-// you can add multiply  substract divide  this number
-console.log(num4 + num4); //86
-
-const num5 = "43"; // its a string primitive data type beacause its  under single or double quotation
-//you cant add or substarct with this number
-
-console.log(num5 + num5); //4343 ...it is behaving like a string
-
-const nameDetails = "I am Tanmoy.";
-const ageDeatails = " I am 26 yrs old.";
-const prof = "i am aweb developer";
-const love = 'i love "javascript".';
-console.log(nameDetails + ageDeatails + prof + love); //
