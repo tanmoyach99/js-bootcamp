@@ -70,3 +70,5 @@ var prop = "color";
 someObj[prop] = "red";
 
 console.log(someObj);
+
+

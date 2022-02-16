@@ -160,3 +160,4 @@ const movieDetails =
   ".";
 
 console.log(movieDetails);
+// Dipu Number 2 was released in 1996. It is a  Bengali thriller fim. It was ver much loved by the people. It Got the huge 4.
