@@ -11,7 +11,7 @@ if (age < 10) {
 } else {
   console.log("you are out of range");
 }
-
+// this part is very tricky.......
 switch (age) {
   case age < 10 && age:
     console.log("stay home under your mom supervision");

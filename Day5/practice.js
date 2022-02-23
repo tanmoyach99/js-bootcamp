@@ -68,6 +68,6 @@ switch (pPrice) {
 }
 // console.log(freeShipping, homeDelivery);
 
-pPrice = 100;
 
-console.log(freeShipping, homeDelivery);
+
+console.log(freeShipping, homeDelivery); //true false
